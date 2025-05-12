@@ -1,4 +1,4 @@
-#~~sign those if you like~~
+## 𝐒𝐢𝐠𝐧 𝐓𝐡𝐨𝐬𝐞 𝐢𝐟 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞
 
 [Atabook](https://bleedingcannibal.atabook.org/)
 
