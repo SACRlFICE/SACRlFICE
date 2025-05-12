@@ -1,4 +1,4 @@
-## 𝐀𝐥𝐥 𝐛𝐲 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟, 𝐬𝐢𝐭𝐭𝐢𝐧𝐠 𝐚𝐥𝐨𝐧𝐞
+## 𝐖𝐢𝐫 𝐒𝐢𝐧𝐝 𝐕𝐞𝐫𝐥𝐨𝐫𝐞𝐧
 
 [Atabook](https://bleedingcannibal.atabook.org/) 
 
