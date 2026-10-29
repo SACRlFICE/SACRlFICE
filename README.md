@@ -1,4 +1,4 @@
-##    𝐖𝐢𝐫   𝐒𝐢𝐧𝐝   𝐕𝐞𝐫𝐥𝐨𝐫𝐞𝐧 
+##     𝖙𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆, 𝖒𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆.
 
 [Atabook](https://bleedingcannibal.atabook.org/) 
 
