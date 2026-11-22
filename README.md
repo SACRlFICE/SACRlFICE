@@ -5,7 +5,7 @@
 
 [strawpage](https://cathedrale.straw.page)
 
-![https://cathedrale.straw.page](https://img.shields.io/badge/Strawpage%20-5F050Fhttps://cathedrale.straw.page)
+![Strawpage](https://img.shields.io/badge/Strawpage%20-5F050F%20https://cathedrale.straw.page)
 
 
 [![Red Link](https://shields.io)](https://cathedrale.straw.page)
