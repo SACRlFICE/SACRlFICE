@@ -8,7 +8,7 @@
 
 
 
-[![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
+[![Pronounspage](https://img.shields.io/badge/Pronounspage-2D2D2D)](https://en.pronouns.page/@Hellpriest)
 
 
 
