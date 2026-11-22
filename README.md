@@ -8,6 +8,11 @@
 ![https://cathedrale.straw.page](https://img.shields.io/badge/Strawpage%20-5F050Fhttps://cathedrale.straw.page)
 
 
+[![Red Link](https://shields.io)](https://cathedrale.straw.page)
+
+
+
+
 
 ![★](https://github.com/SACRlFICE/SACRlFICE/blob/7e2b1b5e9e4a900890b0fc274904f13b5d1b411f/IMG_7c4d821b-0368-4405-9e87-a0eef53a73d0.gif)
 
