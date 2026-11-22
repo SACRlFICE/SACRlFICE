@@ -5,7 +5,7 @@
 
 [strawpage](https://cathedrale.straw.page)
 
-[test](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![test](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 
 
