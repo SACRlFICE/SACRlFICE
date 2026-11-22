@@ -1,7 +1,6 @@
 ##     𝖙𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆, 𝖒𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆.
 
-[Atabook](https://bleedingcannibal.atabook.org/) 
-[Guestbook-similar to ata]
+
 
 
 [![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
