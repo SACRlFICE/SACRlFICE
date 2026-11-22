@@ -15,7 +15,7 @@
 
 [![Guestbook](https://img.shields.io/badge/Guestbook-2D2D2D)](https://cannibal.lol/hellpriest)
 
-[![Art gallery](https://img.shields.io/badge/Art-Gallery-2D2D2D)](artplusmessages.straw.page)
+[![Art gallery](https://img.shields.io/badge/Art%20Gallery-2D2D2D)](artplusmessages.straw.page)
 
 
 
