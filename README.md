@@ -1,8 +1,7 @@
 ##     𝖙𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆, 𝖒𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆.
 
 [Atabook](https://bleedingcannibal.atabook.org/) 
-[Guestbook-similar to ata]
-(https://cannibal.lol/hellpriest)
+[Guestbook-similar to ata](https://cannibal.lol/hellpriest)
 
 
 
