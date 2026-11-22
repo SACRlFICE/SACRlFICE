@@ -1,15 +1,19 @@
 ##     𝖙𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆, 𝖒𝖊 𝖊𝖓𝖛𝖊𝖓𝖊𝖓𝖆.
 
 [Atabook](https://bleedingcannibal.atabook.org/) 
-[Guestbook-similar to ata](https://cannibal.lol/hellpriest)
-
-[strawpage](https://cathedrale.straw.page)
-
-
-[![StrawPage](https://img.shields.io/badge/)](https://cathedrale.straw.page)
+[Guestbook-similar to ata]
 
 
 [![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
+
+
+
+[![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
+
+
+
+[![Guestbook](https://img.shields.io/badge/Guestbook-2D2D2D)](https://cannibal.lol/hellpriest)
+
 
 
 
