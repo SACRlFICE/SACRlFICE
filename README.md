@@ -3,6 +3,7 @@
 [Atabook](https://bleedingcannibal.atabook.org/) 
 [Guestbook-similar to ata](https://cannibal.lol/hellpriest)
 
+[strawpage](https://cathedrale.straw.page)
 
 
 
