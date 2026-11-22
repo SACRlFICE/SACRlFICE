@@ -2,7 +2,7 @@
 
 [Atabook](https://bleedingcannibal.atabook.org/) 
 [Guestbook-similar to ata]
-(https://cannibal.lol/hellpriest/)
+(https://cannibal.lol/hellpriest)
 
 
 
