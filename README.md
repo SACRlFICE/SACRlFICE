@@ -3,7 +3,9 @@
 
 
 
-<div align="center">[![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
+<div align="center">
+  
+  [![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
 
 
 
