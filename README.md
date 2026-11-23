@@ -5,11 +5,11 @@
 
 <div align="center">
   
-  [![StrawPage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
+  [![Strawpage](https://img.shields.io/badge/Strawpage-2D2D2D)](https://cathedrale.straw.page)
 
 
 
-[![Pronounspage](https://img.shields.io/badge/Pronounspage-2D2D2D )](https://en.pronouns.page/@Hellpriest)
+[![Pronouns page](https://img.shields.io/badge/Pronouns%20page-2D2D2D )](https://en.pronouns.page/@Hellpriest)
 
 
 
