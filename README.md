@@ -27,4 +27,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=SACRlFICE&color=grey&style=plastic&label=★&base=48000&abbreviated=true) 
+![](https://komarev.com/ghpvc/?username=SACRlFICE&color=grey&style=flat&label=Profile-views&base=48200&abbreviated=true) 
