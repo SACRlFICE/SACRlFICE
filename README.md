@@ -23,3 +23,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=BleedingCannibal&abbreviated=true&color=grey&label=★)
+
+
+
+![Profile views](https://komarev.com)
+
